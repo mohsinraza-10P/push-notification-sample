@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866251367674",
+    "project_id": "xamarin-pn-sample",
+    "storage_bucket": "xamarin-pn-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866251367674:android:0b1d70eff5399376b09543",
+        "android_client_info": {
+          "package_name": "com.tenpearls.pushnotificationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866251367674-4alp2njr9jp82f19646fo48o1s08kdoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJGv7cipCwzJDIHZ6_z5nKZdNV39rt9hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866251367674-4alp2njr9jp82f19646fo48o1s08kdoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
